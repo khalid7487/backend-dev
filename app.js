@@ -7,3 +7,5 @@ accordions.forEach((element) => {
     if (text) text.style.display = "none";
   });
 });
+
+// Added signin functionality
