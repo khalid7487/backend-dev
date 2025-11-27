@@ -1,8 +1,8 @@
-const acc = document.querySelectorAll(".accordions");
+const accordions = document.querySelectorAll(".accordions");
 
 const text = document.querySelector(".content");
 
-acc.forEach((element) => {
+accordions.forEach((element) => {
   element.addEventListener("click", () => {
     if (text) text.style.display = "none";
   });

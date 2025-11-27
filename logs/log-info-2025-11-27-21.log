@@ -1,0 +1,2 @@
+2025-11-27 21:18:24 [32minfo[39m: {"correlationId":"1764256704948","requestBody":{},"method":"GET","url":"/api/v1/users","statusCode":200}
+2025-11-27 21:18:25 [32minfo[39m: {"correlationId":"1764256705913","requestBody":{},"method":"GET","url":"/api/v1/users","statusCode":304}
